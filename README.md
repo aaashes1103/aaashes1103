@@ -1,12 +1,12 @@
 ## Hi there 👋
-I am a sophomore student in the mixed class of Chu Kochen Honors College at Zhejiang University, majoring in Automation. 
+I am a sophomore student in the mixed class of Chu Kochen Honors College at Zhejiang University, majoring in Automation. //
 I am interested in computer vision and embodied intelligence.
 
 - 🔭 Currently, I'm learning Deep Learing for CV.
 - 🌱 Aiming at persuing a Computer Science PhD degree in ZJU.
 - Hobbies: 🏀 🏊‍ 🚲
 
-If you find my soul interesting, welcome to contact me!
+If you find my soul interesting, welcome to contact me! //
 My Email：aaashes3011@gmail.com
 
 <!--
