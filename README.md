@@ -9,7 +9,7 @@ I am interested in computer vision and embodied intelligence.
 
 If you find my soul interesting, welcome to contact me!   
 
-My Email：aaashes3011@gmail.com
+My Email：aaashes1103@gmail.com
 
 <!--
 **aaashes1103/aaashes1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
