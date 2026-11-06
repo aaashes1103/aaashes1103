@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a sophomore student in the mixed class of Chu Kochen Honors College at Zhejiang University, majoring in Automation.  
+I am a student in the mixed class of Chu Kochen Honors College at Zhejiang University, majoring in Automation.  
 
 I am interested in computer vision and embodied intelligence.
 
